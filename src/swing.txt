@@ -1,0 +1,7 @@
+Swing Component are :
+JFrame , JButton , JLabel , JTextArea , JTextField , JPasswordField , JCheckField , etc.
+
+Show Message Dialog :
+JOptionPane.showMessageDialog(jFrame , "String message");
+
+JComoBox Is same as select tag in html.
